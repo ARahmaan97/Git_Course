@@ -1,3 +1,0 @@
-Local: hi there!
-Remote: hi How are you?
-Local: Iam Good .  
